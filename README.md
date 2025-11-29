@@ -1,7 +1,7 @@
-# Olá! Sou o João Vitor 👋
+<img width="567" height="784" alt="image" src="https://github.com/user-attachments/assets/af3e1998-d053-4ee8-8ebb-a58b80f3f190" /># Olá! Sou o João Vitor 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-taupe-65.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-macieira-de-andrade-733252249/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-m-andrade/)
 
 ---
 
