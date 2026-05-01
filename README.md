@@ -5,6 +5,7 @@
 **Full-Stack & Mobile Developer**
 
 [![Portfolio](https://skillicons.dev/icons?i=htmx)](https://portifolio-nine-beta-53.vercel.app/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-vitor-m-andrade/)
 
 </div>
