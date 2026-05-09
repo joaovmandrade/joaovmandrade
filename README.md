@@ -2,7 +2,7 @@
 
 # Hi, I'm João Vitor 👋
 
-**Full-Stack & Mobile Developer**
+**Front-End & Mobile Developer**
 
 [![Portfolio](https://skillicons.dev/icons?i=htmx)](https://portifolio-nine-beta-53.vercel.app/)
 &nbsp;&nbsp;&nbsp;&nbsp;
