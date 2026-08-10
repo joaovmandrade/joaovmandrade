@@ -37,9 +37,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,dart,flutter)](https://skillicons.dev)
 
-**Backend & Tools**
+**Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,django,postgres,supabase,docker,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,python,django,express,postgres,supabase,firebase)](https://skillicons.dev)
+
+**Tools & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,vercel,figma)](https://skillicons.dev)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117"/>
 
