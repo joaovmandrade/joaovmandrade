@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117"/>
+
 # Hi, I'm João Vitor 👋
 
 **Full Stack Web & Mobile Developer**
@@ -42,4 +44,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117"/>
 
 
----
+
