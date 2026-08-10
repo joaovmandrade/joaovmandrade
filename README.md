@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovmandrade&theme=github_dark" width="75%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovmandrade&theme=github_dark" width="80%"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaovmandrade&theme=github_dark" height="200em"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovmandrade&theme=github_dark" height="200em"/>
