@@ -2,23 +2,25 @@
 
 # Hi, I'm João Vitor 👋
 
-**Front-End & Mobile Developer**
+**Full Stack Web & Mobile Developer**
 
-[![Portfolio](https://skillicons.dev/icons?i=htmx)](https://portifolio-nine-beta-53.vercel.app/)
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://portifolio-nine-beta-53.vercel.app/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-vitor-m-andrade/)
 
 </div>
-
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovmandrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovmandrade&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovmandrade&theme=github_dark" width="67%"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaovmandrade&theme=github_dark" height="200em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovmandrade&theme=github_dark" height="200em"/>
+
 </div>
 
 ---
@@ -27,16 +29,17 @@
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nextjs,vite, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nextjs,vite)](https://skillicons.dev)
 
 **Mobile**
 
-[![My Skills](https://skillicons.dev/icons?i=react,dart,flutter,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=react,dart,flutter)](https://skillicons.dev)
 
 **Backend & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,docker,nodejs,supabase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,django,postgres,supabase,docker,git,figma)](https://skillicons.dev)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:58A6FF,50:1F6FEB,100:0D1117"/>
+
 
 ---
-
